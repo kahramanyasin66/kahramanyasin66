@@ -36,6 +36,7 @@
 ### Badges
 
 <b>My GitHub Stats</b>
+
 <a  href="http://www.github.com/kahramanyasin66"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kahramanyasin66&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=444e59&text_color=000000&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="kahramanyasin66's GitHub stats" />
 </a>
 <a href="https://github.com/kahramanyasin66" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahramanyasin66&langs_count=10&title_color=444e59&text_color=000000&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
