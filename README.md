@@ -1,7 +1,7 @@
 <h2 align="center"> Hi 👋 My name is Yasin Kahraman<br/></h2>
 <h2 align="center"><img  src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400"><br/></h2>
 
-<h2 align="center">Backend Developer<br/></h2>
+<h2 align="center"> I am Backend Developer<br/></h2>
 
 
 
